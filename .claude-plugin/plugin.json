@@ -1,0 +1,16 @@
+{
+  "name": "post-review",
+  "version": "0.1.0",
+  "description": "Scores a draft post on hook, single idea, proof, voice, network format and CTA, and returns corrections. Never publishes.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/post-review",
+  "repository": "https://github.com/nvv-dev/post-review",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "growth-workflow"
+  ]
+}
